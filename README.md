@@ -24,8 +24,8 @@ For NGO/Admin
 
 
  React-Native+tailwind css             
- Ballerina           
- MongoDB             
+ node js+Express
+ MongoDB
 
 
 
